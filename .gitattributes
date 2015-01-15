@@ -1,0 +1,4 @@
+*.csproj text merge=union
+*.sln    text merge=union eol=crlf
+
+*.cs     text diff=csharp
