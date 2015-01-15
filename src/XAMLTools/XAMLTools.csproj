@@ -49,6 +49,7 @@
     <Compile Include="Scanner\Token\BeginAttributeAssignment.cs" />
     <Compile Include="Scanner\Token\AttributeName.cs" />
     <Compile Include="Scanner\Token\BeginClosingTag.cs" />
+    <Compile Include="Scanner\Token\BeginReference.cs" />
     <Compile Include="Scanner\Token\BeginTag.cs" />
     <Compile Include="Scanner\Token\ClosingTagName.cs" />
     <Compile Include="Scanner\Token\DocumentTextBlock.cs" />
